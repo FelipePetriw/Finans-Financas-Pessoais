@@ -6,7 +6,8 @@ Desenvolvimento da página inicial de um site responsivo (bootstrap4) para uma e
 
 ## 🎨 Layout
 
-
+![image](https://github.com/FelipePetriw/Finans-Financas-Pessoais/blob/main/imagens/Apresenta%C3%A7%C3%A3o%201.PNG)
+![image](https://github.com/FelipePetriw/Finans-Financas-Pessoais/blob/main/imagens/Apresenta%C3%A7%C3%A3o%202.PNG)
 
 ## 🛠 Tecnologias
 
