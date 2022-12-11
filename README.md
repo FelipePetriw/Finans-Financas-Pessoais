@@ -1,8 +1,6 @@
-# Finans-Financas-Pessoais
+# Finans - Finanças Pessoais
  Desenvolvimento de site de uma empresa fictica de gestão software para gestão financeira
 
-# Finans - Finanças Pessoais
- 
 ## 💻 Sobre o Projeto
 Desenvolvimento da página inicial de um site responsivo (bootstrap4) para uma empresa fictica de gestão software para gestão financeira, utilizando apenas as tecnologias HTML e CSS.
 
